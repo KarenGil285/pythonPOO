@@ -1,10 +1,27 @@
 body{
+    display: flex;
     background-color: aliceblue;
+    justify-content: center; /* centra horizontal */
+    align-items: center;
+     gap: 20px;  
 }
 
 #div1{
-    border: 1px solid green;
+    text-align: center;
 }
-.elegante{
-    background-color: rgb(209, 143, 63);
+.elegant{
+    background-color: rgb(240, 185, 185);
+}
+#myButton{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: #000;
+}
+#myButton2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: #000;
+    
 }
