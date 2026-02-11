@@ -1,4 +1,10 @@
-#div1{
+body{
     background-color: aliceblue;
-    border: 1px solid green
+}
+
+#div1{
+    border: 1px solid green;
+}
+.elegante{
+    background-color: rgb(209, 143, 63);
 }
